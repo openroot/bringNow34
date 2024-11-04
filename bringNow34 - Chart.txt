@@ -10,7 +10,7 @@ Hood	Advance	Center						Mark	Complete
 Band	Easy	Full						Fire	Immortal	
 Organ	Adjust	Fine	Pluto	Ocean	Either	Short	Back	Health	Distribute	Capacity
 	Summary	All						Reverse	Bore	
-		Transfer						Arrow	Hack	
+Add	Primary	Transfer	Avoid	Road	Ever	Tag	Blood	Arrow	Hack	Pressure
 Dwell	Separate	Reason	Invite	Cyber	Base	Valid	Character	Neutral	Clone	Average
 Source	Guess	Sponsor	Do	Hair	Extra	Blade	Express	Gear	Fortune	Cable
 Topic	Via	Kill	Axel	Smoke	Need	Gadget	Pin	Interest	Compare	No
